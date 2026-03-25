@@ -42,18 +42,16 @@ The application follows a standard RAG workflow:
 
 ## 📂 Project Structure
 
-RAG-Application-with-LangChain/
-│
-├── data/                  # Input documents
-├── chroma/               # Vector DB (auto-generated, ignored)
-│
-├── create_database.py    # Script to build vector store
-├── query_data.py         # Script for querying the system
-│
-├── requirements.txt      # Dependencies
-├── README.md             # Documentation
-├── LICENSE               # License file
-└── .gitignore            # Ignored files
+| File / Folder            | Description                                  |
+|-------------------------|----------------------------------------------|
+| `data/`                 | Input documents for indexing                 |
+| `chroma/`               | Auto-generated vector database (ignored)     |
+| `create_database.py`    | Script to build vector store                 |
+| `query_data.py`         | Script to query indexed data                 |
+| `requirements.txt`      | Project dependencies                         |
+| `README.md`             | Project documentation                        |
+| `LICENSE`               | License details                              |
+| `.gitignore`            | Ignored files configuration                  |
 
 ## ⚙️ Setup & Installation
 
