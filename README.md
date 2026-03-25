@@ -1,6 +1,5 @@
 # 📘 README.md (Improved Version)
 
-```markdown
 # 🧠 RAG Application with LangChain
 
 An end-to-end **Retrieval-Augmented Generation (RAG)** application built using **LangChain**, enabling intelligent question answering over custom datasets using semantic search and large language models.
@@ -43,8 +42,6 @@ The application follows a standard RAG workflow:
 
 ## 📂 Project Structure
 
-```
-
 RAG-Application-with-LangChain/
 │
 ├── data/                  # Input documents
@@ -58,10 +55,6 @@ RAG-Application-with-LangChain/
 ├── LICENSE               # License file
 └── .gitignore            # Ignored files
 
-````
-
----
-
 ## ⚙️ Setup & Installation
 
 ### 1️⃣ Clone the Repository
@@ -69,7 +62,7 @@ RAG-Application-with-LangChain/
 ```bash
 git clone <your-repo-url>
 cd RAG-Application-with-LangChain
-````
+```
 
 ### 2️⃣ Create Virtual Environment
 
