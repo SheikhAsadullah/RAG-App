@@ -1,5 +1,3 @@
-# 📘 README.md (Improved Version)
-
 # 🧠 RAG Application with LangChain
 
 An end-to-end **Retrieval-Augmented Generation (RAG)** application built using **LangChain**, enabling intelligent question answering over custom datasets using semantic search and large language models.
@@ -167,8 +165,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+**Sheikh Asadullah**
+GitHub: [https://github.com/SheikhAsadullah](https://github.com/SheikhAsadullah)
 
 ---
 
@@ -195,6 +193,3 @@ Ideal for:
 * Interviews
 * Learning real-world GenAI systems
 
-```
-
----
